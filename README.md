@@ -10,4 +10,4 @@ We developed a simple yet functional Bakery Management Program using Python to h
 
 This was a great hands-on experience applying Python for real-world business needs!
 
-👥 Collaborators: Rajendran A/L Kumarasamy (add teammates here if any)
+👥 Collaborators: RTan Zhen Ping, Rajendran , Sangeerthanaa
