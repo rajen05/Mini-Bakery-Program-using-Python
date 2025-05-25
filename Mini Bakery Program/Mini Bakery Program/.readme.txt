@@ -1,0 +1,14 @@
+** How to use:
+
+1- Open your editer software
+2- Go to left top corner > File > Open Folder
+3- Select and open folder: #Main Bakery Program
+4- Open and run py file: Assignment Bakery(MainProgram).py
+5- create a customer account, or open List_Account.csv to choose an account to log in
+
+
+!! Note:
+The entire program is build with Visual Code Studio.
+Reason of it is PyCharm does not run as desired while it comes to parts like cls.terminal() from adhocBakerFunctions.py (a function massively used in main program for terminal refreshing).
+
+So to get the best experience and to avoid unexpected interpreting faulties, it is highly recommended to use VS Studio!

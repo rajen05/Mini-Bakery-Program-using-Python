@@ -1,0 +1,13 @@
+Product,Cost,Price,Discounts(%),FinalPrice,Recipe
+Bagels,2.80,6.16,-,6.16,4 cups flour;1 1/2 cups warm water;2 1/4 tsp yeast;1 tbsp sugar;1 tsp salt
+Croissants,3.40,7.48,12,6.58,4 cups flour;1 cup unsalted cold butter;1 cup warm milk;1/4 cup sugar;2 1/4 tsp yeast;1 tsp salt
+Muffin,1.40,3.08,15,2.62,2 cups flour;1 cup sugar;2 tsp baking powder;1/2 tsp salt;1 cup milk;2 eggs;1/2 cup melted butter
+Cookies,1.40,3.08,5,2.93,2 1/4 cups flour;1 cup sugar;1 cup butter;1 egg;1 tsp baking soda;1/2 tsp salt
+Brownie,3.80,8.36,-,8.36,1 cup butter;2 cups sugar;4 eggs;1 cup cocoa powder;1 cup flour;1 tsp baking powder;1/2 tsp salt
+Tiramisu,4.40,9.68,-,9.68,1 cup strong brewed coffee;3 egg yolks;1/2 cup sugar;1 cup mascarpone cheese;1 cup heavy cream;Ladyfinger biscuits;Cocoa powder
+Sausage Roll,1.60,3.52,-,3.52,1 package puff pastry;1 lb sausage meat;1 onion;Salt or pepper
+Cheesecake,4.20,9.24,-,9.24,2 cups cream cheese;1 cup sugar;3 eggs;1 tsp vanilla extract;1 graham cracker crust;1 cup butter
+Tart,1.80,3.96,-,3.96,1 1/2 cups flour;1/2 cup cold butter;1/4 cup sugar;1 egg
+Pie,4.40,5.28,-,5.28,2 cups flour;1 cup butter;1 cup sugar;Filling
+Doughnuts,1.40,3.08,-,3.08,2 cups flour;3/4 cup sugar;2 tsp yeast;1/2 cup milk;2 eggs;1/2 cup butter
+Sandwich,2.60,5.72,-,5.72,Bread;Fillings;Condiments
